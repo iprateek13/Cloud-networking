@@ -350,13 +350,7 @@ Additional features
 
 # 6. Production mein Cost Optimization
 
-2–4 years experience ke candidate se expected hai ki wo sirf:
-
 > "Azure pay-as-you-go hai"
-
-na bole.
-
-Usko ye bhi pata hona chahiye:
 
 ### Cost optimization techniques
 
