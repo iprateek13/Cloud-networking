@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "3309509e35b15f83",
+        "id": "1fe7e381c4d02c41",
         "type": "tabs",
         "children": [
           {
-            "id": "332ca2295cca8823",
+            "id": "85a6d71a5fa9010d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01-Networking-Fundamentals/Chapter-01 (Part -1).md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Chapter-01 (Part -1)"
+              "title": "New tab"
             }
           }
         ]
@@ -188,11 +184,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "332ca2295cca8823",
+  "active": "e8094c07780f9fc3",
   "lastOpenFiles": [
-    "01-Networking-Fundamentals/Chapter-01 (Part-2).md",
+    "azure-02/Untitled.md",
     "01-Networking-Fundamentals/Chapter-01 (Part -1).md",
-    "cloud-computing-02/cloud-02.md",
+    "01-Networking-Fundamentals/Chapter-01 (Part-2).md",
+    "azure-02/cloud-02.md",
     "Codex Image Aug 29, 2026, 12_05_57 AM.png",
     "Codex Image Aug 29, 2026, 12_03_44 AM.png",
     "azure-01/azure-overview.md",
