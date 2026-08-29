@@ -102,6 +102,8 @@ Router ek networking device hai jo **do ya zyada alag networks** ke beech data k
 | Layer (OSI Model)     | Layer 2 (Data Link)                | **Layer 3 (Network)**                                              |
 | Address use karta hai | MAC Address                        | **IP Address**                                                     |
 | Kaam                  | Same network me data forward karna | **Best path** dhoondh kar data ek network se doosre network bhejna |
+
+
 Router **IP addresses** ke basis pe decide karta hai ki data packet kis network me bhejna hai, aur **best/shortest path** choose karta hai (routing algorithms use karke).
 Jab bhi ek network me multiple paths available hote hain data bhejne ke liye, Router ko decide karna hota hai — **kaunsa path sabse achha hai** (fastest, shortest, ya least congested). Ye decision routing algorithm ke through hota hai.
 Bina algorithm ke, router ko pata hi nahi chalega ki data kis raste se bhejna chahiye — isliye har router apni **routing table** maintain karta hai, jo ye algorithms banane me help karti hai.
