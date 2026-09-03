@@ -11,10 +11,14 @@
             "id": "85a6d71a5fa9010d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Notes-From-Scratch/15/Notes- 15.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Notes- 15"
             }
           }
         ]
@@ -95,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "azure-01/azure-overview.md",
+                "file": "Notes-From-Scratch/02/Notes- 02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "azure-01/azure-overview.md",
+                "file": "Notes-From-Scratch/02/Notes- 02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -130,7 +134,7 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true,
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
@@ -157,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "azure-01/azure-overview.md",
+                "file": "Notes-From-Scratch/04/Notes- 04.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -166,7 +170,8 @@
               "title": "Outline"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -184,16 +189,41 @@
       "bases:Create new base": false
     }
   },
-  "active": "e8094c07780f9fc3",
+  "active": "85a6d71a5fa9010d",
   "lastOpenFiles": [
-    "azure-02/Untitled.md",
-    "01-Networking-Fundamentals/Chapter-01 (Part -1).md",
+    "Notes-From-Scratch/14/Notes- 14.md",
+    "Notes-From-Scratch/15/Notes- 15.md",
+    "Notes-From-Scratch/15",
+    "Notes-From-Scratch/13/Notes- 13.md",
+    "Notes-From-Scratch/14",
+    "Notes-From-Scratch/12/Notes- 12.md",
+    "Notes-From-Scratch/13",
+    "Notes-From-Scratch/11/Notes- 11.md",
+    "Notes-From-Scratch/12",
+    "Notes-From-Scratch/10/Notes- 10.md",
+    "Notes-From-Scratch/11",
+    "Notes-From-Scratch/09/Notes- 09.md",
+    "Notes-From-Scratch/10",
+    "Notes-From-Scratch/08/Notes- 08.md",
+    "Notes-From-Scratch/09/Untitled",
+    "Notes-From-Scratch/09",
+    "Notes-From-Scratch/07/Notes- 07.md",
+    "Notes-From-Scratch/08",
+    "Notes-From-Scratch/05/Notes- 05.md",
+    "Notes-From-Scratch/07",
+    "Notes-From-Scratch/06/Notes-06.md",
+    "Notes-From-Scratch/04/Notes- 04.md",
+    "Notes-From-Scratch/03/Notes- 03.md",
+    "Notes-From-Scratch/02/Notes- 02.md",
+    "Notes-From-Scratch/01/Notes- 01.md",
+    "Azure-Landing-Zone/Cloud Adoption Framework - 01.md",
+    "README.md",
     "01-Networking-Fundamentals/Chapter-01 (Part-2).md",
-    "azure-02/cloud-02.md",
-    "Codex Image Aug 29, 2026, 12_05_57 AM.png",
-    "Codex Image Aug 29, 2026, 12_03_44 AM.png",
+    "01-Networking-Fundamentals/Chapter-01 (Part -1).md",
     "azure-01/azure-overview.md",
-    "azure-01",
-    "README.md"
+    "azure-02/cloud-02.md",
+    "azure-02/Untitled.md",
+    "Codex Image Aug 29, 2026, 12_05_57 AM.png",
+    "Codex Image Aug 29, 2026, 12_03_44 AM.png"
   ]
 }
